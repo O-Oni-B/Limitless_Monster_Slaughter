@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 42,
+	"VersionName": "1.42",
+	"FriendlyName": "Easy Multi Save",
+	"Description": "Easy Multi Save is a all-in-one save and load solution for projects of any kind of unrela engine project for all platforms.",
+	"Category": "Save And Load",
+	"CreatedBy": "Anurag Pandey",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "mailto:support@duckmamdtudio.com",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "EasyMultiSave",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux",
+				"Mac",
+				"IOS",
+				"Android"
+			]
+		}
+	]
+}
