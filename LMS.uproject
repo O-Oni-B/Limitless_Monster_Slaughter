@@ -44,10 +44,6 @@
 			]
 		},
 		{
-			"Name": "EasyMultiSave",
-			"Enabled": true
-		},
-		{
 			"Name": "DismembermentSystem",
 			"Enabled": true
 		},
